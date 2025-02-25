@@ -1,0 +1,4 @@
+
+1. **Reconhecimento de Imagem 1:**
+   "A interface do Microsoft ERP Business Central mostra a evolução dos negócios com clareza e eficiência. No painel, gráficos dinâmicos, relatórios financeiros detalhados e métricas de vendas ajudam a visualizar dados essenciais para tomada de decisões estratégicas. A plataforma, acessível em dispositivos móveis e desktops, se destaca pela sua integração fluida entre diferentes áreas de operação, facilitando a gestão de finanças e inventário."
+
