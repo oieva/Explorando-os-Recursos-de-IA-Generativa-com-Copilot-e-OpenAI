@@ -7,12 +7,12 @@ Este projeto explora as possibilidades oferecidas pela Inteligência Artificial 
 A seguir, apresentamos representações visuais da interface do **Microsoft ERP Business Central**, criadas utilizando IA generativa da OpenAI.
 
 ### Interface do Business Central - Visão Estratégica
-![Business Central - Estratégia](inputs/Img 01.png)
+![Business Central - Estratégia]-(inputs/Img 01.png)
 
 "A interface do Microsoft ERP Business Central mostra a evolução dos negócios com clareza e eficiência. No painel, gráficos dinâmicos, relatórios financeiros detalhados e métricas de vendas ajudam a visualizar dados essenciais para tomada de decisões estratégicas. A plataforma, acessível em dispositivos móveis e desktops, se destaca pela sua integração fluida entre diferentes áreas de operação, facilitando a gestão de finanças e inventário."
 
 ### Interface do Business Central - Controle e Gestão
-![Business Central - Gestão](inputs/Img 02.png)
+![Business Central - Gestão]-(inputs/Img 02.png)
 
 "A tela exibe o Microsoft ERP Business Central com uma visão geral das operações empresariais em tempo real. As funcionalidades de controle de estoque, gestão de vendas e análises financeiras são centralizadas de forma intuitiva, permitindo que os usuários monitorem seu desempenho com precisão. O design clean e organizado garante uma navegação simples e eficiente, ajudando as empresas a gerenciar seus processos com agilidade."
 
